@@ -8,4 +8,3 @@ faiss-cpu
 transformers
 sentence-transformers
 huggingface-hub
-RetrievalQA
